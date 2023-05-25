@@ -1,4 +1,9 @@
 ## Hi there 👋
+This Github organization is managed by Binit Kumar Pandit. He is currently working with [Dr. Ayan Banerjee](https://www.iiests.ac.in/IIEST/Faculty/telecom-ayan/) towards his Doctoral Degree at the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
+His research interests are:
+1. Deep Learning based Medical Image Analysis.
+2. VLSI Architecture Design and Prototyping for Machine Learning Applications
+3. Designing Hardware accelerators.
 
 <!--
 
