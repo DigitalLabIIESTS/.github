@@ -11,7 +11,7 @@ Team Members
 3. [Anirban Ganguly](https://github.com/gangulya210)
 4. [Binit Kumar Pandit](https://github.com/BinitPandit94)
 5. [Sampad Chowdhury](https://github.com/SampadChowdhury)
-6. [Rebanta Dey]
+6. [Rebanta Dey](https://github.com/Rebantadey)
 7. [Akash Ther](https://github.com/AKASHTHER)
 8. [Moitreya Chaudhury](https://github.com/sidhp1998)
 <!--
