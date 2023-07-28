@@ -1,13 +1,13 @@
 ## Hi there 👋
-This Github organization is managed by following team members from the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
+This Github organization is managed by the following team members from the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
 **Team Members**
-1. [Binit Kumar Pandit](https://github.com/BinitPandit94)
-2. [Rebanta Dey](https://github.com/Rebantadey)
-3. [Akash Ther](https://github.com/AKASHTHER)
-4. [Moitreya Chaudhury](https://github.com/sidhp1998)
+1. [Binit Kumar Pandit](https://github.com/BinitPandit94) [PhD Scholar]
+2. [Rebanta Dey](https://github.com/Rebantadey) [PG 2021-2023]
+3. [Akash Ther](https://github.com/AKASHTHER) [PG 2021-2023]
+4. [Moitreya Chaudhury](https://github.com/sidhp1998) [PG 2022-2024]
 
 The materials shared here will be based on the following topics(Not limited to):
-1. Deep Learning based Medical Image Analysis.
+1. Deep Learning-based Medical Image Analysis.
 2. VLSI Architecture Design and Prototyping for Machine Learning Applications.
 3. Designing Hardware Accelerators.
 4. Circuits and Systems.
