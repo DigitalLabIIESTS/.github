@@ -1,4 +1,4 @@
-## Hi there 👋
+## Digital Electronics Lab, Department of Electronics and Telecommunication Engineering, IIEST Shibpur
 This Github organization is managed by the following team members from the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
 **Team Members**
 1. [Binit Kumar Pandit](https://github.com/BinitPandit94) [PhD Scholar]
