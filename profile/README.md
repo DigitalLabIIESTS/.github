@@ -7,9 +7,9 @@ This Github organization is managed by the following team members from the Depar
 4. [Moitreya Chaudhury](https://github.com/sidhp1998) [PG 2022-2024]
 
 The materials shared here will be based on the following topics(Not limited to):
-1. Deep Learning-based Medical Image Analysis.
-2. VLSI Architecture Design and Prototyping for Machine Learning Applications.
-3. Designing Hardware Accelerators.
+1. VLSI Architecture Design and Prototyping for Machine Learning Applications.
+2. Designing Hardware Accelerators.
+3. Deep Learning-based Medical Image Analysis.
 4. Circuits and Systems.
 
 <!--
