@@ -2,10 +2,12 @@
 This Github organization is managed by the following team members from the Department of Electronics and Telecommunication Engineering, [IIEST Shibpur](https://www.iiests.ac.in/).\
 **Team Members**
 1. [Binit Kumar Pandit](https://github.com/BinitPandit94) [PhD Scholar]
-2. [Rebanta Dey](https://github.com/Rebantadey) [PG 2021-2023]
-3. [Akash Ther](https://github.com/AKASHTHER) [PG 2021-2023]
-4. [Moitreya Chaudhury](https://github.com/sidhp1998) [PG 2022-2024]
-5. [Amit Barman](https://github.com/AmitBarman99) [UG 2021-2025]
+2. [Sayan Dey](https://github.com/Amisayandey) [PhD Scholar] 
+3. [Rebanta Dey](https://github.com/Rebantadey) [PG 2021-2023]
+4. [Akash Ther](https://github.com/AKASHTHER) [PG 2021-2023]
+5. [Moitreya Chaudhury](https://github.com/sidhp1998) [PG 2022-2024]
+6. [Amit Barman](https://github.com/AmitBarman99) [UG 2021-2025]
+
 <!-- Add your name here-->
 
 The materials shared here will be based on the following topics(Not limited to):
